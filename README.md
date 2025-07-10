@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/github/explore/main/topics/controlid/controlid.png" alt="ControlID Logo" width="60" style="vertical-align:middle"/> ControlID Economic
+# <img src="[https://raw.githubusercontent.com/github/explore/main/topics/controlid/controlid.png](https://github.com/ControlID-Economic/ControlID-Economic/blob/main/ecoid.png?raw=true)" alt="ControlID Logo" width="60" style="vertical-align:middle"/> ControlID Economic
 
 Bem-vindo à organização **ControlID Economic**.
 
