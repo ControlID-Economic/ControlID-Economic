@@ -1,4 +1,10 @@
-# <img src="https://raw.githubusercontent.com/ControlID-Economic/ControlID-Economic/refs/heads/main/ecoid.png" alt="ControlID Logo" width="60" style="vertical-align:middle"/> ControlID Economic
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ControlID-Economic/ControlID-Economic/main/ecoid.png" alt="ControlID Logo" width="800" />
+</p>
+
+<h1 align="center"><strong>ControlID Economic</strong></h1>
+
+---
 
 Bem-vindo à organização **ControlID Economic**.
 
@@ -32,7 +38,7 @@ Confira nossos repositórios principais no topo da organização para mais infor
 
 ## 💻 Tecnologias que utilizamos
 
-<p align="align-center">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
